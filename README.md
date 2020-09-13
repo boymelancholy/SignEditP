@@ -1,13 +1,13 @@
 # SignEditP
 SignEdit for PMMP  
-This plugin is written in PHP.
-And this original is OtorisanVardo's one!
+This plugin is written in PHP.  
+And this **original** is **OtorisanVardo's one**!
 
 ## Overview  
 [See this movie.](https://twitter.com/b0ymelancholy/status/1288683471397773312)  
   
 ## Download  
-[**HERE**](https://github.com/boymelancholy/SignEditP/releases/tag/1.0)  
+[**HERE**](https://github.com/boymelancholy/SignEditP/releases/tag/1.4.6)  
   
 ## Other
 This plugin made that it's based on SignEdit whose author is OtorisanVardo.  
